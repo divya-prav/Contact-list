@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+table {
+  table-layout: fixed;
+  width: auto;
+  border: 1px solid transparent;
+  border-collapse: separate;
+  border-spacing: 20px 10px;
+}
+
+td {
+  border: 1px solid transparent;
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow:ellipsis;
+  padding: 20px;
+  font-weight: 500;
+ 
+
+  
+}
